@@ -1,4 +1,6 @@
-# template
+# {{PROJECT_TITLE}}
+
+> Graph2UI
 
 ## Project setup
 ```
