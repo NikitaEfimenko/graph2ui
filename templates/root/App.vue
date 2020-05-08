@@ -20,7 +20,13 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  data () {
+    return {
+      nav: null,
+      tabs: [{{ROUTES_TO_TABS}}]
+    }
+  }
 }
 </script>
 

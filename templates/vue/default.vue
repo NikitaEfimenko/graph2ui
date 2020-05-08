@@ -1,14 +1,17 @@
 <template>
-<{{PARENT_TAG}} id="{{VUEGG_ID}}"{{VUEGG_ATTRS}}>{{VUEGG_CHILDREN}}
-</{{PARENT_TAG}}>
+<div>
+  <h1>
+    {{VUEGG_NAME}}
+  </h1>
+</div>
 </template>
 
-<script>{{COMPONENTS_IMPORTS}}
+<script>
 export default {
-  name: '{{VUEGG_NAME}}'{{COMPONENTS_DECLARATIONS}}
+  name: '{{VUEGG_NAME}}',
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>{{VUEGG_STYLES}}
+<style scoped>
 </style>
