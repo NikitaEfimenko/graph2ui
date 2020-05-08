@@ -2,6 +2,3 @@
 /config/
 /dist/
 /*.js
-/test/unit/coverage/
-/templates
-/node_modules

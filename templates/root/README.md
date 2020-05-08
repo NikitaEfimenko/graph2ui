@@ -1,6 +1,6 @@
 # {{PROJECT_TITLE}}
 
-> Graph2UI
+> A VUEGGenerated project
 
 ## Build Setup
 
